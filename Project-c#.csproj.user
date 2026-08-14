@@ -1,25 +1,94 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
+    <Compile Update="Account copy.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Account.Designer copy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminReg copy.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="AdminReg.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="AdminReg.Designer copy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ALogin copy.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="ALogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ALogin.Designer copy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ATM copy.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="ATM.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="ATM.Designer copy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Balance copy.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Balance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Balance.Designer copy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChangePin copy.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="ChangePin.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="ChangePin.Designer copy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Deposit copy.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Deposit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Deposit.Designer copy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FastCash copy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FastCash.Designer copy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Home copy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Home.Designer copy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login copy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.Designer copy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MiniStatement copy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MiniStatement.Designer copy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Search copy.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Search.cs">
@@ -37,10 +106,25 @@
     <Compile Update="MiniStatement.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Search.Designer copy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserInfo copy.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="UserInfo.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="UserInfo.Designer copy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Withdraw copy.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Withdraw.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Withdraw.Designer copy.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
